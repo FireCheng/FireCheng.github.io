@@ -20,7 +20,7 @@ author: FireCheng
 我可能说了一些扫兴的真话，这些话可以留到年会结束再听，当务之急是high起来呀！唱跳rap，抽奖搞起来呀！祝大家度过一个愉快的周末！拜拜！
 唉，等等，今年也有抽奖吧？可不可以给我留个“TPL流落海外人员安慰奖”？  
 
-<video width="180" height="320" controls><source src="../video/2019 TPL annual meeting.mp4" type="video/mp4"></video>
+<p align="center"><video width="180" height="320" controls="controls"><source src="../video/2019 TPL annual meeting.mp4" type="video/mp4"></video></p>
 
   
 
