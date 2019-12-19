@@ -10,10 +10,10 @@ author: FireCheng
 {:toc}
   
 # 前情提要  
-最近，我陷入一种疯狂浏览各种DAP（Digital Audio Player）的循环中。各个品牌的国砖和艾利和的京东页面不知道被我对比了多少次，恨不能马上拿一个在手里。看情况，我这是不买一个决不罢休的架势啊（败家子！！！<img src="http://ww1.sinaimg.cn/large/006r3PQBjw1farfdg27a4j307s089q3f.jpg" width="8%"><img src="http://ww4.sinaimg.cn/large/ceeb653ejw1fap7cbwmasj207s089q3j.jpg" width="8%"><img src="http://ww2.sinaimg.cn/large/006r3PQBjw1fardq5fx84j307s089mxy.jpg" width="8%"><img src="http://ww2.sinaimg.cn/large/006r3PQBjw1fayrtxxayxj307s089js4.jpg" width="8%">）。当然，看了这么多的无损播放器，最心仪的还是艾利和SR15。但是，为什么我会这么抓耳挠腮地想要烧个播放器呢？还是这死贵死贵的艾利和？我认真地思考了一下原因。在回答这个问题之前，和我一起回忆一下两件往事吧。 
+最近，我陷入一种疯狂浏览各种DAP（Digital Audio Player）的循环中。各个品牌的国砖和艾利和的京东页面不知道被我对比了多少次，恨不能马上拿一个在手里。看情况，我这是不买一个决不罢休的架势啊（败家子！！！<img src="http://ww1.sinaimg.cn/large/006r3PQBjw1farfdg27a4j307s089q3f.jpg" width="6%"><img src="http://ww4.sinaimg.cn/large/ceeb653ejw1fap7cbwmasj207s089q3j.jpg" width="6%"><img src="http://ww2.sinaimg.cn/large/006r3PQBjw1fardq5fx84j307s089mxy.jpg" width="6%"><img src="http://ww2.sinaimg.cn/large/006r3PQBjw1fayrtxxayxj307s089js4.jpg" width="6%">）。当然，看了这么多的无损播放器，最心仪的还是艾利和SR15。但是，为什么我会这么抓耳挠腮地想要烧个播放器呢？还是这死贵死贵的艾利和？我认真地思考了一下原因。在回答这个问题之前，和我一起回忆一下两件往事吧。 
 
 # 往事——遗憾重现  
-<audio controls="controls" autoplay="autoplay"><source src="../audio/1.mp3" type="audio/mpeg"><embed src="../audio/1.mp3"></embed></audio>  
+<audio controls="controls" preload="preload"><source src="../audio/1.mp3" type="audio/mpeg"><source src="../audio/2.mp3" type="audio/mpeg"><embed src="../audio/1.mp3"></audio>  
 > - <b>往事一——与我擦肩而过的OPPO MP4</b>  
 > 那是2009年前后的一个年里（过年之前的一段时间），我大概是在上高中，二哥家大概是刚在大队盖了新房，我大概暂时处于“没妈”的状态。当时放寒假回家，二哥也从大学放寒假回家了（印象中），加上诸多因素，我成天在大伯家（二哥家）蹭吃蹭喝蹭睡（二哥学习特别好，是我的偶像，所以我很喜欢和他睡一起）。当时二哥带回了一件新奇玩意儿——MP4，这东西对于我这个从小到大从没向父母要过零花钱的“乖孩子”来说可是第一次接触（虽然当时班上不少同学已经拥有自己的诺基亚侧滑手机了），所以我越发成天赖在他家里，躺被窝里摆弄这MP4。  
 > 这东西不大不小，非常薄，一只手掌握持绰绰有余，机身蓝色，呈金属光泽，非常漂亮。有个角配有一条挂绳。开关在侧面，长按关闭。正面有几个触摸式的按键，不是实体的（这在当时是很高级的），反面有一个“OPPO”字样，外加一个小小的凹陷，显然是摔到什么尖锐物上造成的。总之，这MP4做工非常棒，给人一种精致高级感，太对我的胃口了。主要功能就是看电影，听歌。我记得当时这MP4里面有二哥已经下载好的几部电影和很多歌曲。印象最深的是李连杰、杨紫琼演的《木乃伊3：龙帝之墓》；还有张惠妹《听海》、张靓颖《画皮》、陈奕迅《爱情转移》、游鸿明《白色恋人》《孟婆汤》《爱我的人和我爱的人》《下沙》、周传雄《灵药》《男人海洋》《黄昏》、方大同《XX游》。当时这些歌不知别我听了多少，至今为止《听海》和《画皮》仍然是我最喜欢的歌之二。  
