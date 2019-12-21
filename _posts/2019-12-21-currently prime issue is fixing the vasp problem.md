@@ -64,7 +64,7 @@ vasp_std           0000000000414469  Unknown               Unknown  Unknown
 
 # 年会完整视频  
 我在写这篇日记的同时，TPL年会也正在进行，今年去的衡山。唯唯负责今年的视频剪辑，剪的很好。附上链接[2019TPL年会@衡山][1]  
-1: https://www.bilibili.com/video/av80047238
+[1]: https://www.bilibili.com/video/av80047238
   
 
 
