@@ -18,7 +18,7 @@ author: FireCheng
 4. 吾日三称吾身。每天称量体重，做到心中有数！  
 5. 奖励：坚持到1月26日，如果体重能减到70Kg以下（不包括70），就奖励你送自己一个艾利和SR15。  
 
-放张肥照警醒自己！  
+<b><font color="red">放张肥照警醒自己！</font></b>  
 <p align="center"><img src="../image/fat me.jpg" width="50%"></p>
 
 
