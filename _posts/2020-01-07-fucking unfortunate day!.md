@@ -17,6 +17,6 @@ author: FireCheng
 妈的，本命年这事儿是真的有毒。搞得我的新年第一天就倒大霉，日了狗了！只希望这事儿能耗尽我这一整年的霉运吧！  
 
 <b><font color="red">车子惨况</font></b>  
-<p align="center"><img src="https://image2.cqcb.com/d/file/personage/2017-08-31/53beb7de4cd8dc2ef2639c949a679056.jpg" width="70%"></p>
+<p align="center"><img src="../image/3.jpg" width="50%"></p>
 
 
