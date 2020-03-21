@@ -9,4 +9,4 @@ author: FireCheng
 * content
 {:toc}
   
-<center><embed src="../pdf/1.pdf" width="850" height="600"></center>
+<center><embed src="../pdf/1.pdf" width="820" height="600"></center>
