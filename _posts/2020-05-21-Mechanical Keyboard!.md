@@ -9,7 +9,7 @@ author: FireCheng
 * content
 {:toc}
 
-&ensp;&ensp;<font color="red">等了这么多天的机械键盘，今天终于收到货啦！</font><img src="http://wx4.sinaimg.cn/large/006ARE9vgy1fv019533qcj304w04iaad.jpg" width="30">
+&ensp;&ensp;<font color="red">等了这么多天的机械键盘，今天终于收到货啦！</font><img src="http://wx4.sinaimg.cn/large/006ARE9vgy1fv019533qcj304w04iaad.jpg" width="30%">
 
 # <b>我为啥要买一个机械键盘？</b>  
 > - 其一，有钱烧得慌。其实我是个穷鬼，但是就是存不住钱，一旦银行卡里余额充足，就会整天琢磨这怎么把这些钱花出去。这是一件相当可怕的事情。看来以后我是不能管钱了，所有的钱都得交给老婆管，不然有多少花多少，日子还过不过了？
